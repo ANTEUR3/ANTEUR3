@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anteur3&label=Profile%20views&color=0e75b6&style=flat" alt="anteur3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anteur3" alt="anteur3" /></a> </p>
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="anteur3" /> </p>
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" style="width:200px;height:200px;" alt="anteur3" /> </p>
 
 - Cs student **Website Development Specialist**
 
