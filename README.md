@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anteur3&label=Profile%20views&color=0e75b6&style=flat" alt="anteur3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anteur3" alt="anteur3" /></a> </p>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw1NuhSHJvtUOOdWe7a0gVPz&ust=1731161340247000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCWvNH0zIkDFQAAAAAdAAAAABAE" alt="anteur3" /> </p>
+<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="anteur3" /> </p>
 
 - Cs student **Website Development Specialist**
 
