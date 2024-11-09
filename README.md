@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">full stack web developer</h3>
-<div style="display: flex; align-items: center; gap: 10px;">
+<div >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
     <!-- Add more images or content here -->
