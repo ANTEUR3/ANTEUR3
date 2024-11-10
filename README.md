@@ -11,7 +11,7 @@
 
 
 <p style="color:blue">How to reach me :</p>
-<a href="https://www.linkedin.com/in/younes-anteur-76a094338"><h2>Linkedin</h2></a>
+<a href="https://www.linkedin.com/in/younes-anteur-76a094338">Linkedin</a>
 - Cs student **Website Development Specialist**
 
 - 🌱 I’m currently learning **All about computer science**
