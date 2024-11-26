@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/younes-anteur-76a094338/"><img style="width:50px; height:50px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 ></a>
 
-<br>
+
 - Cs student **Website Development Specialist**
 
 - 🌱 I’m currently learning **All about computer science**
