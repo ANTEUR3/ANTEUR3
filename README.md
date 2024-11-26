@@ -11,7 +11,7 @@
 
 
 <p style="color:blue">How to reach me :</p>
-<a href=""><img src="[![image](https://github.com/user-attachments/assets/63544808-b725-44d7-b061-97990c7e10a3)](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)"
+<a href=""><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 ></a>
 - Cs student **Website Development Specialist**
 
