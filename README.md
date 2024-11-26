@@ -8,7 +8,6 @@
 
 
 
-<div style="background-color:blue">hello</div>
 
 <h1 style="color:blue">How to reach me :</h1>
 
