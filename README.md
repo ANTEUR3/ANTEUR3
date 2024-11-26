@@ -12,7 +12,7 @@
 
 <h1 style="color:blue">How to reach me :</h1>
 
-<a ><img style="width:50px; height:50px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+<a href="https://www.linkedin.com/in/younes-anteur-76a094338/"><img style="width:50px; height:50px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
 
 
 - Cs student **Website Development Specialist**
