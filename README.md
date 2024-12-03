@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **All about computer science**
 
-- 👯 I’m looking to collaborate on **E-commerce Platform**
+- 👯 I’m looking to collaborate on **Personal website**
 
 - 👨‍💻 All of my projects are available at [https://mostaql.com/u/anteur_younes/portfolio](https://mostaql.com/u/anteur_younes/portfolio)
 
