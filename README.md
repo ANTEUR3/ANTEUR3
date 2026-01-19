@@ -13,7 +13,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="" width="40" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="" width="40" height="40"/> </a>
-![image](https://github.com/user-attachments/assets/d16015b9-1b83-48e7-b089-f8cd0aa7ad8d)
+
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="" width="40" height="40"/> </a>
 <h1 style="color:blue">How to reach me :</h1>
